@@ -32,8 +32,8 @@ Here are the deadlines for each homework and project.
 |-----------------------------------------------|-------------------------|---------------------|
 | Homework 1: Introduction to Machine Learning | Sep 30 | Done |
 | Homework 2: Machine Learning for Regression  | Oct 7    | Done |
-| Homework 3: Machine Learning for Classification | Oct 14 | Ongoing |
-| Homework 4: Evaluation Metrics for Classification | Oct 21 | Upcoming |
+| Homework 3: Machine Learning for Classification | Oct 14 | Done |
+| Homework 4: Evaluation Metrics for Classification | Oct 21 | Ongoing |
 | Homework 5: Deploying Machine Learning Models | Oct 28  | Upcoming |
 | Homework 6: Decision Trees and Ensemble Learning | Nov 4 | Upcoming |
 | Homework 8: Neural Networks and Deep Learning | Dec 2 | Upcoming |
